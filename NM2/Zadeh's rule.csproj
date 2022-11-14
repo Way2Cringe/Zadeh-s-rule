@@ -7,7 +7,7 @@
     <ProjectGuid>{7605CD0C-D6FD-4C2A-9A68-97ED664242B2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>NM2</RootNamespace>
-    <AssemblyName>NM2</AssemblyName>
+    <AssemblyName>Zadeh%27s rule</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -67,6 +67,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
