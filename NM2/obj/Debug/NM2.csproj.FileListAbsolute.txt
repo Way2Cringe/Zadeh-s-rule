@@ -1,0 +1,11 @@
+C:\Users\20vit\source\repos\NM2\NM2\bin\Debug\NM2.exe.config
+C:\Users\20vit\source\repos\NM2\NM2\bin\Debug\NM2.exe
+C:\Users\20vit\source\repos\NM2\NM2\bin\Debug\NM2.pdb
+C:\Users\20vit\source\repos\NM2\NM2\obj\Debug\NM2.csproj.AssemblyReference.cache
+C:\Users\20vit\source\repos\NM2\NM2\obj\Debug\NM2.csproj.SuggestedBindingRedirects.cache
+C:\Users\20vit\source\repos\NM2\NM2\obj\Debug\NM2.Form1.resources
+C:\Users\20vit\source\repos\NM2\NM2\obj\Debug\NM2.Properties.Resources.resources
+C:\Users\20vit\source\repos\NM2\NM2\obj\Debug\NM2.csproj.GenerateResource.cache
+C:\Users\20vit\source\repos\NM2\NM2\obj\Debug\NM2.csproj.CoreCompileInputs.cache
+C:\Users\20vit\source\repos\NM2\NM2\obj\Debug\NM2.exe
+C:\Users\20vit\source\repos\NM2\NM2\obj\Debug\NM2.pdb
